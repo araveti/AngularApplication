@@ -1,0 +1,7 @@
+p{
+    padding: 20px;
+    color: white;
+    backface-visibility: visible;
+    background-color: rgb(225, 65, 65);
+    border: 1px rgb(255, 0, 0);
+}
